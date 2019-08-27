@@ -1,5 +1,0 @@
-nome = str( input('Qual é seu nome? '))
-peso = float (input ('Qual é seu peso(kg)? '))
-altura = float (input ('Qual sua altura(m) '))
-imc = (peso/(altura*altura))
-print ('Seu IMC?:' ,imc)
