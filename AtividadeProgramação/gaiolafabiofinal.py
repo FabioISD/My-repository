@@ -13,7 +13,7 @@ if hab ==1:
 if aproximacao:
     barra = int(input('Barra deve ser pressionada pelo animal 20x\n Ditige número de repetições: '))
     if (barra>=20):
-        print('\n=======ANIMAL PASSOU PAR PRÓXIMA ETAPA=======\n') 
+        print('\n=======ANIMAL PASSOU PARA PRÓXIMA ETAPA=======\n') 
     else:
         print('\n=======Teste incompleto=======\n')
 if barra >=20:
@@ -26,6 +26,3 @@ if barra >=20:
         print ("=======Recompensa liberada=======")
     else:
         print("======Recompensa não liberada======")
-
-    
-
